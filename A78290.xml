@@ -1,0 +1,688 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A horrible and bloody plot to murder Sir Thomas Fairfax, Sir William Brereton, Sir Thomas Middleton, Colonell Moore, and above one hundred more of the Parliament men, colonels, and other officers and gentlemen. With the names of the knights, esquires, gentlemen, and others that were chief actors therein. The copies of the severall indictments, bills, and other parchments and papers; and the names of the judges, justices, and grand iury; and their proceedings therein. With letters from the committee of Chester, and other gentlemen of the country sent up about the same. These are copied out by the originall papers, delivered into the committee at Goldsmiths Hall, and are printed and published according to order of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78290</idno>
+            <idno type="STC">Wing C122</idno>
+            <idno type="STC">Thomason E345_20</idno>
+            <idno type="STC">ESTC R200998</idno>
+            <idno type="EEBO-CITATION">99861593</idno>
+            <idno type="PROQUEST">99861593</idno>
+            <idno type="VID">113731</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78290)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113731)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 56:E345[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A horrible and bloody plot to murder Sir Thomas Fairfax, Sir William Brereton, Sir Thomas Middleton, Colonell Moore, and above one hundred more of the Parliament men, colonels, and other officers and gentlemen. With the names of the knights, esquires, gentlemen, and others that were chief actors therein. The copies of the severall indictments, bills, and other parchments and papers; and the names of the judges, justices, and grand iury; and their proceedings therein. With letters from the committee of Chester, and other gentlemen of the country sent up about the same. These are copied out by the originall papers, delivered into the committee at Goldsmiths Hall, and are printed and published according to order of Parliament.</title>
+                  <author>S. C.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B. Alsop, for E. Griffin.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A collection of a number of documents, the first of which is a letter signed: S.C.</note>
+                  <note>Annotation on Thomason copy: "July 27th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671.</term>
+               <term>Brereton, William, --  Sir, 1604-1661.</term>
+               <term>Middleton, Thomas, --  Sir, 1586-1666.</term>
+               <term>Conspiracies --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Amanda Flynn</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113731:1"/>
+            <pb facs="tcp:113731:1" rendition="simple:additions"/>
+            <p>A HORRIBLE AND BLOODY PLOT TO Murder Sir Thomas Fairfax, Sir William Brere<g ref="char:EOLhyphen"/>ton, Sir Thomas Middleton, Colonell Moore, and above one hundred more of the Parliament Men, Colonels, and other Officers and Gentlemen.</p>
+            <p>WITH The Names of the Knights, Eſquires, Gentle<g ref="char:EOLhyphen"/>men, and others that were chief Actors therein. The Copies of the ſeverall Indictments, Bills, and other Parchments and Papers; and the Names of the Judges, Juſtices, and Grand Iury; and their pro<g ref="char:EOLhyphen"/>ceedings therein. With Letters from the Committee of Cheſter, and other Gentlemen of the Country ſent up about the ſame.</p>
+            <floatingText xml:lang="eng" type="license">
+               <body>
+                  <p>Theſe are copied out by the Originall Papers, delivered into the Committee at Goldſmiths Hall, and are printed and publiſhed accor<g ref="char:EOLhyphen"/>ding to Order of PARLIAMENT.</p>
+               </body>
+            </floatingText>
+            <p>London, Printed by B. Alſop, for E. Griffin. 1646.</p>
+            <pb facs="tcp:113731:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:113731:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOu are deſired to adde this to your former La<g ref="char:EOLhyphen"/>bours for the Common-wealth, to deliver the Packet herewith ſent, to the honourable Com<g ref="char:EOLhyphen"/>mittee at Goldſmiths Hall <hi>London,</hi> for Compoſitions: Here are Copies of the Indictments preferred at the Aſ<g ref="char:EOLhyphen"/>ſizes before the Judges at <hi>Cheſter,</hi> in February, 1642. whereby Sir <hi>Thomas Fairfax,</hi> Sir <hi>George Booth,</hi> Sir <hi>VVill. Brereton,</hi> Sir <hi>Thomas Middleton,</hi> Sir <hi>William Fairfax,</hi> Col. <hi>Aſhton,</hi> Col. <hi>Moore,</hi> Col. <hi>Mitton,</hi> and hundreds more ſtand indicted of high Treaſon, for taking up Arms, and adhe<g ref="char:EOLhyphen"/>ring to the Parliament in this warre, together with the Indictments: here is a Liſt of the Jury that found theſe Indictments, there is about 18 of this Jury, that would never (that it can be remembred) appear upon any grand Jury before this which is very remarkable, many of them now are compounding for their Eſtates, And it doth ap<g ref="char:EOLhyphen"/>peare that divers doe compound without a Certificate hence of the nature of their delinquency, &amp;c. Mr. <hi>Brere<g ref="char:EOLhyphen"/>ton</hi> of <hi>Aſhley</hi> who was one of this Jury, hath compounded already, and his delinquency uncertified or tequired: Here is a Copy of the Letter ſent by the Committee here to the Committee for Compoſitions; by which you may be ſatisfied of the proceedings, when the Committee at Goldſmiths Hall are thus informed herein they know beſt what uſe to make hereof for the Common-wealth<hi>:</hi> Here is alſo a particular Indictment againſt Col. <hi>Moore,</hi> and the Exigent whereupon he was returned out-laawed,—Mr. <hi>Iohn Wilſon</hi> gave judgment thereupon, who is now com<g ref="char:EOLhyphen"/>pounding for his eſtate. If the Proceſſe, Outlaries, and
+<pb n="2" facs="tcp:113731:3"/> Returns had been taken out, it wou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d have taken up ſo much labour and time, as I doubt they would not have been ready in any due time ſuch hath been the care and induſtry of the adverſe Party in all their proceedings. You may obſerve what an inveterate hatred they have had againſt Sir <hi>William Brereton</hi> who is indicted in eve<g ref="char:EOLhyphen"/>ry Indictment, And it may well be remembred they pre<g ref="char:EOLhyphen"/>pared an Engine or Inſtrument for him, if they had proſpered at <hi>Middlewich</hi> Battell, when we took Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Moſeley,</hi> Col. <hi>Ellis,</hi> and divers other Gentlemen of quality; at which time Sir <hi>Thomas Aſton</hi> fled away: But I would not trouble you any further. This is all at preſent herein, my other Letter being ſo large; onely I am</p>
+            <closer>
+               <signed>Your faithfull Friend and Servant, <hi>S. C.</hi>
+               </signed>
+               <dateline>
+                  <hi>Cheſter.</hi> 
+                  <date>July 4. 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOur Letter <hi>per Poſt</hi> I received whereby I underſtand you are informed, That the Committee at Goldſmiths Hall, doth compound with all men what ever Fact they have committed againſt the Commonwealth; yea though they have been Inſtruments to burn Towns and houſes, to the deſtruction and ruine of whole Families, and have had their hands in blood, by whom many ſoules have ſuffered death; And therefore you have forborn to deliver the Letter directed to Goldſmiths Hall, and the Indictments therewith ſent; Notwithſtanding which, you are againe deſired to take the pains to deliver them; The Gentle<g ref="char:EOLhyphen"/>men here conceive they are bound in Conſcience, and by their late Nationall Covenant, to doe their duty in their place, to bring Delinquents to condigne puniſh<g ref="char:EOLhyphen"/>ment, and can do no leſſe right to themſelves then to in<g ref="char:EOLhyphen"/>forme that Honourable Committee, being a Committee
+<pb n="3" facs="tcp:113731:3"/> of the Members of Parliament in the Premiſes, who are Members in the making of the Law, and can beſt judge of condigne puniſhment,—You may doe them a noble favour; And therein you ſhall engage me to remain</p>
+            <closer>
+               <signed>Yours to command <hi>S. C.</hi>
+               </signed>
+               <dateline>
+                  <hi>Cheſter,</hi> 
+                  <date>July 21. 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="certificate">
+            <head>
+               <hi>The Certificate from the Committee of Chester, to the Committee of London, concerning the Indictments againſt Sir</hi> Tho: Fairfax, <hi>Sir</hi> W. Brereton, <hi>and many others.</hi>
+            </head>
+            <opener>
+               <salute>Honourable Sirs,</salute>
+            </opener>
+            <p>AMongſt ſuch Delinquents as we the Committee for Sequeſtrations for the City of Cheſter, in order to our proceedings finde moſt notorious in this County: We cannot omit with reſpect to ſeverall heads in the Natio<g ref="char:EOLhyphen"/>nal Covenant by us taken, and our duty to the Parlia<g ref="char:EOLhyphen"/>ment, to publiſh and make known unto you the nature and quality of the offences of certain Gentlemen tran<g ref="char:EOLhyphen"/>ſcendent in the eyes and judgment of the Body of this County far above others, though in hoſtility againſt the Parliament.</p>
+            <p>In February <hi>Anno Dom.</hi> 164<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. after the Battell at Edg-Hill, the Aſſizes or great Seſſions was held at the Caſtle of <hi>Cheſter,</hi> Judge <hi>Mellwood,</hi> and Juſtice <hi>Pretherough</hi> being Judges, Sir <hi>Richard Graveſnor</hi> high Sheriffe, Sir <hi>Richard Floyd</hi> the Kings Attorney, and Mr. <hi>Iohn Wilſon</hi> one of the Coroners of the County: At which Aſſizes there were indicted of high Treaſon Sir Thomas Fairfax, Sir George Booth, Sir W. Brereton, Sir T. Middleton, Col. Moor, the preſent high Sheriffe of Cheſter, and the reſt of the Deputy Lieutenants of this County that ſtood for the Parliament, The Committees for the county, &amp; for Seque<g ref="char:EOLhyphen"/>ſtrations, and hundreds more of the well affected and
+<pb n="4" facs="tcp:113731:4"/> faithfull to the Parliament in this county for taking up Armes and adhering to the Parliament in this Cauſe and Warre, All which were afterwards outlawed in the year, 1643. The ſeverall perſons whoſe names are in a Sche<g ref="char:EOLhyphen"/>dule here incloſed being of that grand Jury, and did re<g ref="char:EOLhyphen"/>turn upon the ſeverall Indictments <hi>Billa vera.</hi> Whereby ſo much as in them lay to bring theſe honourable perſons and all the reſt into a capacity ſubject to the greateſt of puniſhment, by death, and perpetuall ignominy, their blood ſtained, and all their eſtates reall and perſonall for<g ref="char:EOLhyphen"/>feited: which proceedings being under the colour, and ground of a law, many have been further hardned in their principles and proceedings againſt the Parliament: All which Jury, ſaving three or four, it is not known have e<g ref="char:EOLhyphen"/>ver appeared, or would ſerve upon any grand Jury before that time. For your fuller ſatisfaction of the proceenings in the premiſes, we have procured Copies of the ſaid In<g ref="char:EOLhyphen"/>di&amp;ments, which herewith we preſent unto you, deſiring your mature conſideration thereupon, in point of Com<g ref="char:EOLhyphen"/>poſition (if you ſhall think fit, to compound with them) who had determined (if it had pleaſed God to have given them power through the county) to have proſecuted theſe Indictments in the ſtricteſt Letter thereof, wherein lay neither Pardon, nor Reprieve; And withall to adde this further to your indeſatigable labours, to make a re<g ref="char:EOLhyphen"/>port hereof, with the ſaid Indictments and Proceedings to the honourable Houſe of Commons; to the end, order may be directed for the Indempnity of his Majeſties loy<g ref="char:EOLhyphen"/>all and faithfull Subjects who have ſtuck to the Parlia<g ref="char:EOLhyphen"/>ment in an evill day, And ſuch further proceedings may be made thereupon, as in their grave judgments may be thought meet; wherein you ſhall engage this County to ſerve you, And therein none moae then</p>
+            <closer>
+               <signed>Your faithfull and humble Servants,
+<list type="signatory_list">
+                     <item>John Whitworth.</item>
+                     <item>Ralph Judſon.</item>
+                     <item>John Whitle.</item>
+                     <item>Sam: Buck.</item>
+                  </list>
+               </signed>
+               <dateline>
+                  <hi>Cheſter</hi> 
+                  <date>July 21. 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="bill">
+            <pb n="5" facs="tcp:113731:4"/>
+            <opener>
+               <dateline>CHESTER, <hi>viz.</hi>
+               </dateline>
+            </opener>
+            <p>THe Iury for the Lord the King preſent upon their <note place="margin">
+                  <hi>Ceſtr. ſs.</hi> Juratores pro Dom. Rege ſuper ſacr<hi>:</hi> ſuum preſen<g ref="char:EOLhyphen"/>tant. Quod <hi>Guilielmus Brereton,</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>per de <hi>Hand<g ref="char:EOLhyphen"/>ford</hi> in Com. <hi>Ceſtr.</hi> Baronet, <hi>Tho. Fairfax</hi> nup. de <hi>Nant<g ref="char:EOLhyphen"/>wich</hi> in Com. predicto mile<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp;c.</note> oathes, That <hi>William Brereton</hi> late of <hi>Handford</hi> in the county of <hi>Cheſter</hi> Baronet, <hi>Thomas Fairfax</hi> late of <hi>Nampt<g ref="char:EOLhyphen"/>w<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch</hi> in the county aforeſaid Knight, <hi>William Fairfax</hi> late of the ſame in the county aforeſaid Knight, <hi>George Booth</hi> late of <hi>Dunham</hi> in the county aforeſaid Esq; <hi>Will: Marbury</hi> late of <hi>Marbury</hi> in the county aforeſaid Esq; <hi>George Spurſtow</hi> late of <hi>Spu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtow</hi> in the county aforeſaid Esq; <hi>William Maſſie</hi> late of <hi>Maſſie</hi> in the county afore<g ref="char:EOLhyphen"/>ſaid Esq; <hi>Thomas Croxton</hi> late of <hi>Ravenſcroft</hi> in the coun<g ref="char:EOLhyphen"/>ty aforeſaid Esq; <hi>Iohn Bromhall</hi> late of <hi>Namptwich</hi> in the county aforeſaid Mercer, <hi>Richard Holland</hi> late of <hi>Middle<g ref="char:EOLhyphen"/>wich</hi> in the county aforeſaid Esq; <hi>Peter Leigh</hi> late of <hi>Tar<g ref="char:EOLhyphen"/>vyn</hi> in the aforeſaid county of <hi>Chester</hi> Iron-Monger, <hi>Iohn</hi> 
+               <note place="margin">—Timore<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Dei pro ocu<g ref="char:EOLhyphen"/>lis ſuis <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> habentes nec debit: ſigeanti<g ref="char:EOLhyphen"/>am ſuam pon<g ref="char:EOLhyphen"/>derantes, ſed inſtigatione<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> diab<gap reason="illegible" resp="#APEX" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> &amp; ſeducti di<g ref="char:EOLhyphen"/>lectionem ac veram et de<g ref="char:EOLhyphen"/>bitam obe<g ref="char:EOLhyphen"/>dientiam quas veri &amp; fideles ſubditi dom. noſtri Caroli nunc Regis Angliae, &amp;c. erga ipſum Dom<hi>:</hi> Regem gererent &amp; de <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure gerere tenent. peni<g ref="char:EOLhyphen"/>tus ſubtrahen<g ref="char:EOLhyphen"/>ces ac machi<g ref="char:EOLhyphen"/>nantes, &amp; to tisviribus ſuis intendent: pa<g ref="char:EOLhyphen"/>cem et comu<g ref="char:EOLhyphen"/>nem tranquil<g ref="char:EOLhyphen"/>litatem hujus Regni Anglie, perturbare de<g ref="char:EOLhyphen"/>cimo Octavo Die <hi>Julii,</hi> An<g ref="char:EOLhyphen"/>no Regni dicti Dom. noſtri Caroli Dei grat: An<g ref="char:EOLhyphen"/>gliae Scotiae Franciae, &amp; Hibernie Re<g ref="char:EOLhyphen"/>gis fidei de<g ref="char:EOLhyphen"/>fenſor<hi>:</hi> &amp;c Decimo nono apud <hi>Nampt<g ref="char:EOLhyphen"/>wich,</hi> in Com. predicto pro<g ref="char:EOLhyphen"/>ditorie com<g ref="char:EOLhyphen"/>paſſa verunt imaginat: fuer &amp; intende<g ref="char:EOLhyphen"/>bant guerram rebellionem &amp; inſurrectionem contra dictum dom: Regem inf<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> hoc Regnum Angliae leva<g ref="char:EOLhyphen"/>re &amp; ſuſcitar<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; ad eaſdem proditiones imaginationes &amp; intentiones ſuas predictas per implendas &amp; ad effectum redigend. ii<g ref="char:EOLhyphen"/>dem <hi>Guiliel<g ref="char:EOLhyphen"/>mus Brereton, Tho. Fairfax,</hi> &amp;c.</note> 
+               <hi>Booth</hi> of <hi>Dunham</hi> aforeſaid, in the county of <hi>Cheſter</hi> afore<g ref="char:EOLhyphen"/>ſaid Esq; <hi>Iohn Leigh</hi> late of <hi>Boothes</hi> in the county of <hi>Che<g ref="char:EOLhyphen"/>ſter</hi> aforeſaid Esq; <hi>Humphry Bulkley</hi> late of <hi>Wbatcraft</hi> in the county of <hi>Cheſter</hi> aforeſaid Esq; <hi>Gilbert Gerrarrd</hi> late of <hi>Crew-wood</hi> in the county aforeſaid Gent. <hi>Thomas Hint</hi> late of <hi>Tarvin</hi> in the aforeſaid county of <hi>Cheſter</hi> Beere-Brewer, <hi>S<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. R<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tcliff<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> late of <hi>Tarvin</hi> aforeſaid, in the co:
+<pb n="6" facs="tcp:113731:5"/> aforeſaid Beer-Brewer, <hi>Hugh Witney</hi> late of <hi>Coole</hi> in the county aforeſaid Gent. <hi>Iohn Cheſwys</hi> late of <hi>Mickle</hi> in the county aforeſaid gent. <hi>Mathew Trevis</hi> of <hi>Teverton</hi> in the county of <hi>Cheſter</hi> aforeſaid gent. <hi>Robert Duckenfield</hi> late of <hi>Duckenfield</hi> in the county of <hi>Cheſter</hi> aforeſaid Eſq. <hi>Iohn Trevis</hi> late of <hi>Horton</hi> in the county of <hi>Cheſter</hi> aforeſaid gent. <hi>Richard Iudſon late</hi> of <hi>Ruſhton</hi> in the county of <hi>Cheſ<g ref="char:EOLhyphen"/>ter</hi> aforeſaid gent. <hi>Richard Leceſter</hi> late of <hi>Pool</hi> in the coun<g ref="char:EOLhyphen"/>ty aforeſaid gent. <hi>William Peare-tree</hi> late of <hi>Namptwith</hi> in the county of <hi>Cheſter</hi> aforeſaid Clerke. <hi>Edward Bold</hi> late of <hi>Acton</hi> in the county of <hi>Cheſter</hi> aforeſaid Clerke <hi>Richard Foule<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> of <hi>Bartamley</hi> in the county of <hi>Cheſter</hi> aforeſaide Clerke. <hi>Richard Oſeley</hi> late of <hi>Waverham</hi> in the county of <hi>Cheſter</hi> Clerke. <hi>Peter I<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re</hi> late of <hi>Chriſtleton</hi> in the county of <hi>Cheſter</hi> aforeſaid Clerke. <hi>Thomas Cotton</hi> late of <hi>Cotton</hi> in the county of <hi>Cheſter</hi> aforeſaid Eſqu. <hi>Robert wright</hi> late of <hi>Tarvin</hi> in the county of <hi>Cheſter</hi> aforeſaid piſtor. <hi>Willi<g ref="char:EOLhyphen"/>am Davis</hi> late of <hi>Aſhton</hi> in the county of <hi>Cheſter</hi> aforeſaid gent. <hi>Alexander Elcock</hi> late of <hi>Poole</hi> in the county of <hi>Che<g ref="char:EOLhyphen"/>ſter</hi> aforeſaid, <hi>William Raven</hi> late of <hi>Elworth</hi> in the coun<g ref="char:EOLhyphen"/>ty of <hi>Cheſter</hi> aforeſaid gent. <hi>Iohn Lownes</hi> late of <hi>Small<g ref="char:EOLhyphen"/>wood</hi> in the County of <hi>Cheſter</hi> aforeſaid gent. <hi>Richard Ea<g ref="char:EOLhyphen"/>ton</hi> late of <hi>Anlin</hi> in the county of <hi>Cheſter</hi> aforeſaid clerke <hi>Richard Brooke</hi> of <hi>Smalwood</hi> in the county of <hi>Cheſter</hi> a<g ref="char:EOLhyphen"/>foreſaid Yeoman, <hi>Ralph Poole</hi> late of <hi>Odrode</hi> in the coun<g ref="char:EOLhyphen"/>ty of <hi>Cleſter</hi> aforeſaid Yeoman, <hi>William Kent</hi> late of <hi>Sha<g ref="char:EOLhyphen"/>vington</hi> in the county aforeſaid Yeo. <hi>Iohn Hancocke</hi> late of <hi>Odrode</hi> aforeſaid in the coun. of <hi>Cheſter</hi> aforeſaid clerk <hi>Thomas Slade</hi> late of <hi>Shavington</hi> in the county aforeſaid Yeoman. <hi>Richard Pever</hi> of <hi>Odrode</hi> in the county of <hi>Che<g ref="char:EOLhyphen"/>ſter</hi> aforeſaid Yeoman. <hi>Robert Slade</hi> late of <hi>Shavington</hi> in the county of <hi>Cheſter</hi> aforeſaid Yeoman, <hi>Mark Ialiwer ver</hi> late of <hi>Shavington</hi> aforeſaid in the county of <hi>Cheſter</hi> aforeſaid Yeoman, <hi>Thomas Stanly</hi> late of <hi>Alderly</hi> in the
+<pb n="7" facs="tcp:113731:5"/> County aforeſaid Esq; <hi>Peter Stanley</hi> of <hi>Alde<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly</hi> aforeſaid in the Co: aforeſaid Gentleman, <hi>Heary Varnon</hi> late of <hi>Haſ<g ref="char:EOLhyphen"/>lington</hi> in the County aforeſaid Eſquire, <hi>
+                  <g ref="char:V">Ʋ</g>
+                  <g ref="char:V">Ʋ</g>illiam Wat<g ref="char:EOLhyphen"/>ſon</hi> late of <hi>Macclefield</hi> in the County aforeſaid Gent. <hi>Iohn Crew</hi> of <hi>Namptwich</hi> in the County, aforeſaid Yeoman, <hi>Robert Low</hi> late of <hi>Crowton</hi> in the County aforeſaid yeo<g ref="char:EOLhyphen"/>man. <hi>Peter Dod</hi> late of <hi>Tuſnington</hi> in the County afore<g ref="char:EOLhyphen"/>ſaid Yeoman, <hi>Allen <g ref="char:V">Ʋ</g>
+                  <g ref="char:V">Ʋ</g>alley</hi> late of <hi>Kinderton</hi> in the County aforeſaid Yeoman, <hi>William <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>te</hi> late of <hi>Alvand<g ref="char:EOLhyphen"/>ley</hi> in the County aforeſaid Yeoman, <hi>Iames <g ref="char:V">Ʋ</g>
+                  <g ref="char:V">Ʋ</g>hi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> late of the ſame in the County aforeſaid Yeoman, <hi>William Walley</hi> late of <hi>Davenham</hi> in the County aforeſaid Yeo<g ref="char:EOLhyphen"/>man, <hi>Richard Tutche<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> late of <hi>Crowton</hi> in the County afore<g ref="char:EOLhyphen"/>ſaid Yeoman, <hi>Ioſeph Hall</hi> late of <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> in the County <note place="margin">Poſte<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſcile. pred. viceſimo nono dic <hi>Jan. Anno</hi> Decimo nono ſupradi<g ref="char:EOLhyphen"/>cto vi &amp; ar<g ref="char:EOLhyphen"/>mis &amp;c. apud <hi>Namptwich</hi> pred. in Com. predicto con<g ref="char:EOLhyphen"/>tra dictum Dom. Regem ſupremum ve<g ref="char:EOLhyphen"/>rum &amp; ind<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>bita<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: Dom. ſuum cum magna multi<g ref="char:EOLhyphen"/>tudine, genti<g ref="char:EOLhyphen"/>um ſur. predi<g ref="char:EOLhyphen"/>ctis ignot<hi>:</hi> ad numerum <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>um mille per<g ref="char:EOLhyphen"/>ſonarum modo guerrino ar<g ref="char:EOLhyphen"/>mat. &amp; arraiat<hi>:</hi> vid. cum <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m<g ref="char:EOLhyphen"/>panis <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>lice drums<g ref="char:punc">▪</g> g<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>diis, ha<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>is, &amp; tormentis, &amp; aliis armis tam invaſivis quam defenſi<g ref="char:EOLhyphen"/>vis illicite &amp; proditorie ad-tunc &amp; ibidem <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n ſimul con<g ref="char:EOLhyphen"/>gregar. &amp; aſ<g ref="char:EOLhyphen"/>ſemblat. guer<g ref="char:EOLhyphen"/>ram publicam contra dictum Dom. Regem apud <hi>Nampt<g ref="char:EOLhyphen"/>wich</hi> pred. in com. predicto dicto viceſimo nono Die Jan. <hi>Anno</hi> ſupra<g ref="char:EOLhyphen"/>dicto prodi<g ref="char:EOLhyphen"/>torie par<g ref="char:EOLhyphen"/>averunt, ordi<g ref="char:EOLhyphen"/>naverunt perpetrave<g ref="char:EOLhyphen"/>runt, &amp; leva<g ref="char:EOLhyphen"/>ver<hi>:</hi> contra li<g ref="char:EOLhyphen"/>geanc: ſuas debitas in magnum pe<g ref="char:EOLhyphen"/>riculum per<g ref="char:EOLhyphen"/>ſone Regie di<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i Dom. Regis ac ſubverſio<g ref="char:EOLhyphen"/>nis Regni ſui Angliae ac contra pacem dicti Do. Re<g ref="char:EOLhyphen"/>gis nune Cor. &amp; dignitat. quas ac contra formam Stat. in hujuſmodi caſu edit<hi>:</hi> &amp; proviſ. <hi>Attorn. Dom. Regis pro. Iur. magna. Billa vera.</hi>
+               </note> aforeſaid Yeoman, <hi>Iohn Miller</hi> late of <hi>Kingſley</hi> in the County aforeſaid Yeoman, <hi>Iohn Sarton</hi> late of <hi>Crowton</hi> in the County aforeſaid Yeoman, <hi>George Edge</hi> late of <hi>King<g ref="char:EOLhyphen"/>ſley</hi> in the County aforeſaid Yeoman, and <hi>Robert Blinſton</hi> late of <hi>Netherton</hi> in the County aforeſaid Yeoman, not having the fear of God <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ore their eyes, nor regarding their due allegeance, but being moved and ſeduced by the inſtigation of the Devill, utterly withdrawing the love as alſo the true affection and obedience which a true and faithfull Subject of our Lord CHARLES now King of <hi>England, &amp;c.</hi> towards Him then King, bear and are bound to bear. As alſo endeavouring, and with all their po<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er ſtriving the common peace and tranquility of this king<g ref="char:EOLhyphen"/>dome to diſturbe, the 29 day of January, in the yeare of the Reign of our Soveraign Lord CHARLES by the grace of God of <hi>England, Scotland, France,</hi> and <hi>Ireland</hi> King, Defender of the Faith, &amp;c. the Nineteenth, <hi>at Namptwich</hi> in the ſaid County trayterouſly contrived imagined, and intended a Rebellious War &amp; Inſurrection againſt the ſaid Lord &amp; King to raiſe &amp; ſtir up within the Kingdom of <hi>England.</hi> And for the accompliſhment of their ſaid In<g ref="char:EOLhyphen"/>tention; and to bring the ſame to paſſe; they the ſaid <hi>William Brereton, Thomas Fairſax,</hi> &amp;c. afterwards, that is
+<pb n="8" facs="tcp:113731:6"/> to ſay, the ſaid twenty ninth day of January in the yeare aforeſaid, in the county aforeſaid, againſt the peace of our ſaid Lord and King, with force of Armes, &amp;c. at Nampt<g ref="char:EOLhyphen"/>wich aforeſaid the ſaid twenty ninth day of Jan. with a great number of people unknown to this Jury, to the num<g ref="char:EOLhyphen"/>ber of three thouſand perſons, armed and arrayed in a warlike manner with Drums, Swords, Pikes, Guns, and other Armes, as well offenſive as defenſive, falſly and trayterouſly then and there together in a publike Warre againſt our ſaid Lord and King at Namptwich aforeſaid in the county aforeſaid the ſaid twenty ninth day of Ja<g ref="char:EOLhyphen"/>nuary in the year aforeſaid, trayterouſly ordered prepared and levyed againſt their Allegeance due to the great dan<g ref="char:EOLhyphen"/>ger of the perſon of the ſaid Lord and King, the ſubverſi<g ref="char:EOLhyphen"/>on of this Kingdome of England, And againſt the peace of our Soveraign Lord the King his Crown and Dignity, and againſt the forme of the Stat: in that caſe provi<g ref="char:EOLhyphen"/>ded.</p>
+            <closer>
+               <hi>The Kings Attorney Proſecutor.</hi>
+               <lb/> 
+               <hi>The Jury of Inqueſt.</hi>
+               <lb/> 
+               <hi>The Bill is found.</hi>
+            </closer>
+         </div>
+         <div type="bill">
+            <pb n="9" facs="tcp:113731:6"/>
+            <opener>
+               <dateline>CHESTER, viz.</dateline>
+            </opener>
+            <p>THe Jury for our Lord the King upon their oaths pre<g ref="char:EOLhyphen"/>ſent <note place="margin">
+                  <hi>Ceſtr. ſt.</hi> Juratores pro Dom. Rege ſuper ſacr<hi>:</hi> ſuum preſen<g ref="char:EOLhyphen"/>tant. Quod <hi>Guilielmus Brereton,</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>per de <hi>Hand<g ref="char:EOLhyphen"/>ford</hi> in Com. <hi>Ceſtr.</hi> Baronet. <hi>Georgius Booth</hi> nuper de <hi>Du<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> in Com. predi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o miles &amp; Baronett. &amp;c.</note> that <hi>
+                  <g ref="char:V">Ʋ</g>
+                  <g ref="char:V">Ʋ</g>illiam Brereton</hi> late of <hi>Handford</hi> in the county of <hi>Ch<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſter</hi> Baronet, <hi>George Booth</hi> late of <hi>Dunham</hi> in the county aforeſaid Knight and Baronet, <hi>Tho. Brom<g ref="char:EOLhyphen"/>field</hi> late of <hi>VVitton</hi> in the county aforeſaid Gentleman, <hi>Henry Brook</hi> late of <hi>Norton</hi> in the county aforeſaid Esq; <hi>Ralph Ardern</hi> late of <hi>Hard<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> in the county aforeſaid Esq; <hi>Robert Gregg</hi> late of <hi>Hapesford</hi> in the county aforeſaid Gent: <hi>Robert Gregg</hi> junior, late of the ſame of the county aforeſaid yeoman, <hi>Nathaniel Lancaſter</hi> late of <hi>Tarpurley</hi> in the county aforeſaid Clark, <hi>Iohn Rathbone</hi> late of <hi>Er<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> in the county aforeſaid Gentleman, <hi>Thomas Malbore</hi> ſenior, late of <hi>Namptwich</hi> in the county aforeſaid Gentleman, <hi>Thomas Malbore</hi> junior, late of the ſame in the county a<g ref="char:EOLhyphen"/>foreſaid Gentleman, <hi>George Malbore</hi> late of the ſame in <note place="margin">—Timor<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Dei pro ocu<g ref="char:EOLhyphen"/>lis ſuis <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> habentes nec debit: ligeanti<g ref="char:EOLhyphen"/>am ſuam pon<g ref="char:EOLhyphen"/>derantes, ſed inſtigatione<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> diaboli<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> mo<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> &amp; ſedu<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i di<g ref="char:EOLhyphen"/>lectionem <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c veram et de<g ref="char:EOLhyphen"/>bitam obe<g ref="char:EOLhyphen"/>dientiam quas veri &amp; fideles ſubditi dom. noſt<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Caroli nunc Regis Angliae, &amp;c. erga ipſum Dom<hi>:</hi> Regem gererent &amp; de <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure gerere tenent. peni<g ref="char:EOLhyphen"/>tus ſubtrahen<g ref="char:EOLhyphen"/>ces ac machi<g ref="char:EOLhyphen"/>nantes, &amp; to tisviribus ſuis intendent: pa<g ref="char:EOLhyphen"/>cem et comu<g ref="char:EOLhyphen"/>nem tranquil<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itatem hujus Regni Anglie, perturbaredo<g ref="char:EOLhyphen"/>cimo Octavo Die <hi>Julii,</hi> An<g ref="char:EOLhyphen"/>no Regni <hi>dicti</hi> Dom. noſtri Caroli Dei grat: An<g ref="char:EOLhyphen"/>gliae, Scotiae Franciae, &amp; Hibernie Re<g ref="char:EOLhyphen"/>gis fidei de<g ref="char:EOLhyphen"/>ſenſor<hi>:</hi> &amp;c. Decimo nono apud <hi>Nampt<g ref="char:EOLhyphen"/>wich,</hi> in Com. predicto pro<g ref="char:EOLhyphen"/>dictorie com<g ref="char:EOLhyphen"/>paſſaverunt imaginat: fuer &amp; intende<g ref="char:EOLhyphen"/>bant guerram rebellionem &amp; inſurrecti<g ref="char:EOLhyphen"/>onem contra dictum dom: Regem infra hoc Regnum Angliae levare &amp; ſuſcitare &amp; ad eaſdem prodictiones imaginationes &amp; intentione ſuas predictas perimplen<g ref="char:EOLhyphen"/>das &amp; ad effe<g ref="char:EOLhyphen"/>ctum redi<g ref="char:EOLhyphen"/>gend iidem <hi>Guilietmus Brereton, Georgius Booth</hi> &amp;c.</note> the county aforeſaid Gentleman, <hi>Iames Gar<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ide</hi> late of <hi>Tarvin</hi> in the county aforeſaid Gent. <hi>Richard Golb<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> of the ſame in the county aforeſaid Gent. <hi>Iohn Boſtoc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> late of Tatton Hall in the county aforeſaid Esq; <hi>Roger Bradley</hi> late of Bradley in the county aforeſaid Gent. <hi>Tho. N<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>den</hi> late of <hi>Namptwich</hi> in the county aforeſaid Mercer, <hi>George Edgely</hi> late of <hi>Aſhton</hi> in the county aforeſaid Gent. <hi>Will. Edwards</hi> late of Tarond in the county aforeſaid Mercer <hi>Will. Edwards</hi> junior, late of the ſame Gent. <hi>Iohn Wynne</hi> late of the ſame Ironmonger. <hi>Rob. <g ref="char:V">Ʋ</g>enables</hi> late of <hi>Antro<g ref="char:EOLhyphen"/>bus</hi> in the county aforeſaid Gent. <hi>Iohn Ru<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter</hi> late of <hi>God<g ref="char:EOLhyphen"/>cr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ft</hi> in the county aforeſaid Gent. <hi>R<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chard H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h</hi> late of <hi>Frodſham</hi> in the county aforeſaid Yeoman, <hi>William Witter</hi> late of the ſame in the county aforeſaid yeoman, <hi>Thomas Ba<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er</hi> late of the ſame in the county aforeſaid yeoman,
+<pb n="10" facs="tcp:113731:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:113731:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:113731:8"/> 
+               <hi>Humph. Minſhall,</hi> late of <hi>Kinderton</hi> in the County afore-foreſaid Gent. <hi>Pet. Minſhal</hi> late of the ſame in the Coun: aforeſaid Gent. <hi>Ioſeph Hall</hi> late of <hi>Fr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dſham</hi> in the Co<gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> aforeſaid Gen. <hi>Humph. Iohnſon</hi> late of <hi>Nuton</hi> in the coun<g ref="char:EOLhyphen"/>ty aforeſaid Gent, <hi>Galbert Ireland</hi> late of <hi>Crowton</hi> in the county aforeſaid Esq; <hi>
+                  <g ref="char:V">Ʋ</g>
+                  <g ref="char:V">Ʋ</g>illiam Harri<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on</hi> late or <hi>Minſhal Vernon</hi> in the co: aforeſaid yeo: <hi>R<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Farrington</hi> of <hi>Stanthorn</hi> in the county aforeſaid yeoman, <hi>Thomas Baſnet</hi> late of the ſame in the county aforeſaid yeoman, <hi>
+                  <g ref="char:V">Ʋ</g>
+                  <g ref="char:V">Ʋ</g>illiam <g ref="char:V">Ʋ</g>
+                  <g ref="char:V">Ʋ</g>alley</hi> late of <hi>Davenham</hi> in the county aforeſaid yeoman, <hi>Tho<g ref="char:EOLhyphen"/>mas VValley</hi> late of <hi>Shipbrook</hi> in the county aforeſaid yeo<g ref="char:EOLhyphen"/>man, <hi>Thomas Axon</hi> late of <hi>Loſtwich</hi> in the county afore<g ref="char:EOLhyphen"/>ſaid yeoman, <hi>Iohn Pierſun</hi> late of <hi>Stanthorn</hi> in the county aforeſaid yeoman, <hi>Iames VVright</hi> late of the ſame in the county aforeſaid yeoman <hi>Iohn Milton</hi> late of <hi>Clive</hi> in the county aforeſaid yeoman, <hi>Ralph Becket</hi> late of <hi>Nuton</hi> in the county aforeſaid yeoman, <hi>Ioſeph Smallw<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d</hi> late of <hi>Sproston</hi> in the county aforeſaid Webſter, <hi>Iohn Damel</hi> late of <hi>Daresbury</hi> ſenior, in the county aforeſaid Gent. <hi>
+                  <g ref="char:V">Ʋ</g>
+                  <g ref="char:V">Ʋ</g>il. Tomlinſon</hi> late of <hi>
+                  <g ref="char:V">Ʋ</g>
+                  <g ref="char:V">Ʋ</g>arton</hi> in the county aforeſaid Gent. <hi>Iohn <g ref="char:V">Ʋ</g>
+                  <g ref="char:V">Ʋ</g>arburton</hi> late of great <hi>Budworth</hi> in the county a<g ref="char:EOLhyphen"/>foreſaid Gent. <hi>William Iohnſon</hi> late of <hi>Fredſham</hi> in the county aforeſaid Smith, &amp; <hi>R<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Pike</hi> late of the ſame in the county aforeſaid yeoman, and <hi>Gilbert Gerhard</hi> of <hi>Crew</hi> in the county aforeſaid Gentleman, not having the feare of God before their eyes, nor regarding their due allegeance, but being moved and ſeduced by the inſtigation of the Divel utterly withdrawing the love, as alſo the true obe<g ref="char:EOLhyphen"/>dience, which a true and faithfull Subject of our Lord <hi>Charles,</hi> now King of <hi>England,</hi> &amp;c. towards him their King, bear and are bound to bear; As alſo endeavouring, and with all their power ſtriving the common peace and tranquility of this Kingdome of England to diſturb, the 18. day of July, in the year of the Raign of our Soveraign Lord <hi>Charles</hi> by the grace of God of <hi>England, Scotland, France</hi> and <hi>Ireland</hi> King, Defender of the Faith, &amp;c. the 19 at Namptwich in the ſaid county, trayterouſly contrived,
+<pb n="11" facs="tcp:113731:8"/> imagined and intended a Rebellious Warre and Inſur<g ref="char:EOLhyphen"/>rection againſt the ſaid Lord and King, to raiſe and ſtirre up within this Kingdome of England: And for the ac<g ref="char:EOLhyphen"/>compliſhment of their ſaid intentions, and to bring the ſame to paſſe, They the ſaid <hi>VVil. Broreton, George Booth;</hi> &amp;c. afterwards, that is to ſay, the ſaid 18 Day of July in the year aforeſaid, with force of Armes, &amp;c. at Nampt<g ref="char:EOLhyphen"/>wich aforeſaid in the county aforeſaid againſt the Peace <note place="margin">—Poſtea ſci<g ref="char:EOLhyphen"/>licet predicto decimo octa<g ref="char:EOLhyphen"/>vo Die Julii, Anno ſupra dicto vi &amp; ar<g ref="char:EOLhyphen"/>mis, &amp;c. apud <hi>Namptwich</hi> predictem in Com. pred. contra <hi>dictum</hi> Dom. Regem ſupremum verum &amp; in<g ref="char:EOLhyphen"/>dubitatum Do. ſuum cum magna multi<g ref="char:EOLhyphen"/>tudine genti<g ref="char:EOLhyphen"/>um ſuratori<g ref="char:EOLhyphen"/>bus pred. ig<g ref="char:EOLhyphen"/>not. ad nume<g ref="char:EOLhyphen"/>rum T<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>um mille perſo<g ref="char:EOLhyphen"/>narum modo guerrino armat. &amp; arraiat<hi>:</hi> videlicet cum Tympanis Anglice Drums, gladiis, haſtis, tormentis &amp; aliis armes tam invaſivis quam defenſivis illicite &amp; prodit. ad tunc &amp; ibidem in ſimul congregat: &amp; aſſemblat: guerram publicam contra dict. Dom. Regem apud <hi>Namptwich</hi> predictam in Com. predicto dicto decimo octavo Die Julii Anno decimso nono ſupredicto proditorie parayerunt, ordina<g ref="char:EOLhyphen"/>verunt, &amp; levavetunt, contra pacem dicti Dom. Regis runc Coro<g ref="char:EOLhyphen"/>nam &amp; dignitatem ſuas, ac contra formam Statutorum in hujuſmodi caſu edit: &amp; proviſ. <hi>Attorn. Dom. Regis proſecutor. Inq. Magna. Billa vera.</hi>
+               </note> of our ſaid Lord and King, their ſupream, true, and un<g ref="char:EOLhyphen"/>doubted Lord, with a great number of people unknowne to this Jury, to the number of three thouſand perſons, ar<g ref="char:EOLhyphen"/>med and arrayed in a warlike manner, with Drums, Swords, Pikes, Guns, and other Arms, aſwell offenſive as defenſive, falſly and trayterouſly then and there together in a publike warre againſt our ſaid Lord and King at Namptwich aforeſaid, in the County aforeſaid, the ſaid 18. Day of July in the year aforeſaid, trayterouſly, orde<g ref="char:EOLhyphen"/>red, prepared, and levyed againſt their Allegeance due, and againſt the peace of our ſaid Lord and King, his Crowne and Dignity, And contrary to the forme of the Statute in that Caſe provided.</p>
+            <closer>The Kings Attorney Proſecutor.<lb/> The great Inqueſt.<lb/> The Bill is found.</closer>
+         </div>
+         <div type="bill">
+            <pb n="12" facs="tcp:113731:9"/>
+            <opener>
+               <dateline>CHESTER, viz.</dateline>
+            </opener>
+            <p>THe Jury for our Lord the King, preſent upon their oaths, That <hi>VVilli<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m Brereton</hi> late of <hi>Handford</hi> in the County of <hi>Chester,</hi> Baronet, <hi>Thomas Middleton</hi> late of <hi>Parndon</hi> in the ſaid County Knight, <hi>Peter Egerton</hi> late of the ſame in the ſaid County Esq; <hi>Iohn Holcroft</hi> late of <hi>Tarvyn</hi> of the ſaid County Eſquire (and many more in the Indictment;) not having the fear of God in their hearts; nor regarding their due Allegeance, but be<g ref="char:EOLhyphen"/>ing ſeduced and moved by the inſtigation of the Divell, utterly withdrawing the love, true, and due obedience, which a true and faithfull Subject of our Lord <hi>Charles</hi> now King of England, &amp;c. towards our L. the King bear, and are bound to bear, endeavouring, and with all their power ſtriving the common peace and tranquility of this Kingdom of England to diſturbe, the 20 day of January, in the year of the Raign of our Soveraign Lord <hi>Charles</hi> by the grace of God, of England, Scotland, France and Ire<g ref="char:EOLhyphen"/>land King Defender of the Faith, &amp;c. the 19 at Nampt<g ref="char:EOLhyphen"/>wich in the ſaid County trayterouſly contrived, imagined and intended, a rebellious warre and inſurrection againſt the ſaid Lord and King to raiſe and ſtirre up, and for the accompliſhment of their ſaid intentions, and to bring the ſame to paſſe, they the ſaid <hi>William Brereton, Tho. Mid<g ref="char:EOLhyphen"/>dleton,</hi> &amp;c. afterwards, that is to ſay, the ſaid 20 day of Ia<g ref="char:EOLhyphen"/>nuary in the 19 yeare aforeſaid by force of Arms, &amp;c. at Namptwich aforeſaid, in the County aforeſaid, againſt
+<pb n="13" facs="tcp:113731:9"/> the peace of our ſaid Lord and King, their ſupreame, true, and undoubted Lord, with a great multitude of people unknown to this Iury, to the number of three thouſand perſons, armed and arrayed in a war<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ike manner, with Drums, Swords, Pi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us, Guns, and other Armes, as well offenſive as defenſive, falſly and trayterouſly, then, and there together gathered and aſſembled, and a publike war againſt our ſaid Lord and King at Namptwich aforeſaid, in the county aforeſaid, the ſaid twentieth day of Ianuary, in the year aforeſaid, trayterouſly ordered, prepared, and levyed againſt their Allegeance due, to the great danger of the Kings perſon and ſubverſion of this Kingdom; and contrary to the peace of our ſaid Lord and King, his Crown and Dignity; and contrary to the forme of the Statute in that Caſe provided.</p>
+            <closer>
+               <hi>The Kings Attorney Proſecutor.</hi>
+               <lb/> 
+               <hi>The great Inqueſt.</hi>
+               <lb/> 
+               <hi>The Bill is found.</hi>
+            </closer>
+         </div>
+         <div type="bill">
+            <pb facs="tcp:113731:10"/>
+            <opener>
+               <dateline>CHESTER, viz.</dateline>
+            </opener>
+            <p>THe Jury for the Lord the King preſent upon their oaths, That <hi>William Brereton</hi> late of Handford in the county of <hi>Cheſter</hi> Baronet, <hi>Andrew Blacon</hi> late of <hi>Weſton magna</hi> in the ſaid county, &amp;c. Not having the fear of God before their eyes: but being moved and ſeduced by the inſtigation of the Divell, utterly withdrawing the love, as alſo the true affection; which a faithfull Subject of our Lord <hi>Charles</hi> now King of England, &amp;c. towards him their King, bear and are bound to bear; As alſo endea<g ref="char:EOLhyphen"/>vouring, and with all their power ſtriving the common peace of the kingdome of England to diſturbe the 29. day of January, in the yeare of the Raign of our Soveraigne Lord <hi>Charles,</hi> by the grace of God, of England, Scotland, France and Ireland King, Defender of the Faith, &amp;c. the 19. at Namptwich in the ſaid County, trayterouſly con<g ref="char:EOLhyphen"/>trived, imagined and intended a rebellious warre and in<g ref="char:EOLhyphen"/>ſurrection againſt the ſaid Lord and King, to raiſe and ſtirre up within this kingdome of England; and for ac<g ref="char:EOLhyphen"/>compliſhment of their ſaid Intentions, and to bring the ſame to paſſe, they the ſaid <hi>W. Brereton,</hi> &amp;c- afterwards, that is to ſay, the 29. day of Ian. in the yeare aforeſaid, with force of Atms, &amp;c. at Namptwich aforeſaid, in the county aforeſaid againſt the peace of our ſaid Lord and King, their ſupream true &amp; undoubted Lord, with a great number of people unknown to this Jury to the number of 3000. perſons, armed, and arrayed in a warlike manner with Drums, Swords, Pikes, Guns, and other Arms, aſwel offenſive as defenſive, falſly &amp; trayterouſly then &amp; there in a publike war againſt our ſaid Lord &amp; King at Nampt<g ref="char:EOLhyphen"/>wich aforeſaid in the county aforeſaid, the ſaid 29. of Ian. in the year aforeſaid, trayterouſly ordered, and prepared againſt their Allegeance due, and againſt the peace of our ſaid Lord and King, his Crown; and Dignity; and contrary to the forme of the Statute in that Caſe provided.</p>
+            <closer>The Kings Attorney Proſecutor.<lb/> The great Inqueſt.<lb/> The Bill is found.</closer>
+            <closer>
+               <signed>Examined with the Originall, By me <hi>Thomas Acton.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="indictment">
+            <pb n="15" facs="tcp:113731:10"/>
+            <head>A Coppy of an Inditement againſt <hi>John Moore</hi> Eſquire found by the grand Jury.</head>
+            <div xml:lang="lat" type="version">
+               <opener>
+                  <dateline>Ceſter. viz.</dateline>
+               </opener>
+               <p>J<g ref="char:V">Ʋ</g>r. pro dom. Rege ſuper ſa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am. ſuum preſen<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t, quod <hi>Johannes Moore</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. nuper de Weſton in Com. Ceſte. Ar. <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> dei in <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rde ſuo non habens, nec debit. <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſuam p<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ans, ſed inſtigation. dia<g ref="char:EOLhyphen"/>bolica <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. &amp; ſeduct<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dilec<g ref="char:EOLhyphen"/>tionem &amp; reram &amp; debit. obedi<g ref="char:EOLhyphen"/>entiam; quas rerus &amp; fidel ſub<g ref="char:EOLhyphen"/>dito dom noſt. Caroli nun<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> regis Angl. &amp;c. erga ipſun<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Dom. Re<g ref="char:EOLhyphen"/>gem gerere<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> &amp; de jure gerere tenetur penitus ſubtrabens &amp; machinani, &amp; totis viribus ſuis intendens, pacem &amp; com. tranquilitatem hujus Regni Angl. preturbare viceſimo die Ianuar. Anno B<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gni dom Ca<g ref="char:EOLhyphen"/>roli dei grat. Angl. Scot. Franc. &amp; Hiber. Regis fidei defenſore, &amp;c. decimo n<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>no apud Weſton in Com. pred. proditorie compaſsavi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> imaginat. fuit &amp; intendebat guerram, Rebellio<g ref="char:EOLhyphen"/>nem
+<pb n="16" facs="tcp:113731:11"/> &amp; inſurrectio<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, cont. dict. Dom. Ragem infra hoc Regnum Angl. levare &amp; ſuſcitar Et ad eaſdem proditiones imagina<g ref="char:EOLhyphen"/>tiones &amp; intentiones ſuas prae<g ref="char:EOLhyphen"/>dict. permiplend<g ref="char:punc">▪</g> &amp; ad effect. redigend. It <hi>Johannes Moore</hi> poſtea ſeil. predict. viceſimo die Ianuar. Anno ſuperdicto vi &amp; Armis, &amp;c. apud Weſton pred. in Com. predict. cont. dict. Dom. Regem ſupremum ver<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m &amp; indubitat. dom ſuum. c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m magna multitudine Gent. Iar. predict. ignot. ad numer. cen<g ref="char:EOLhyphen"/>tum perſonar modo guerr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>io armat &amp; arraiat. viz. cum Tympanis, Anglice Drums, Gla<g ref="char:EOLhyphen"/>diis, Haſtis, Tormentis &amp; aliis Armis tam in vaſivis quam defenſivis, illicite &amp; proditorie ad tunc &amp; ibidem in ſimul con<g ref="char:EOLhyphen"/>gregat. &amp; aſſemblat. guerram publicam cont. Dict. Dom. Re<g ref="char:EOLhyphen"/>gem apud Weſton predict. in Com. predict. dict. viceſimo die Ianuar. An ſupradict. proditorie paravit, ordinavit &amp; levavit, cont. pacem dict. dom. regis nunc Coronam &amp; dignitat. ſu. ac cont. formam Statuti in hujuſ<g ref="char:EOLhyphen"/>mod. caſu edit. &amp; proviſ.</p>
+               <closer>Attorn Dom. Reg. proſ.<lb/>Jur. Billa vera.</closer>
+            </div>
+            <div xml:lang="eng" type="version">
+               <pb n="15" facs="tcp:113731:10"/>
+               <p> THe Jury for our Soveraign Lord the King, upon their Oathes do preſent. That <hi>Io. Moor</hi> late of Eſton in the Coun<g ref="char:EOLhyphen"/>ty of Cheſter, not having the feare of God in his heart, nor co<g ref="char:cmbAbbrStroke">̄</g>ſidering his due allegiance, moved and ſe<g ref="char:EOLhyphen"/>duced by the inſtigation of the de<g ref="char:EOLhyphen"/>vill the love, the true and due o<g ref="char:EOLhyphen"/>bedience, which a true and faith<g ref="char:EOLhyphen"/>full ſubject of our Lord <hi>Charles</hi> now King of England, &amp;c. towards his ſaid Lord and King beareth, and of right i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd to beare, al<g ref="char:EOLhyphen"/>together withdrawing, and i<g ref="char:EOLhyphen"/>magining and with all his power intending, the peace and common tranquillity of this Realm of Eng<g ref="char:EOLhyphen"/>land to diſturbe, the 20 day of <hi>Ianuary,</hi> in the year of the Raigne of our Soveraigne Lord <hi>Charles,</hi> by the grace of God, of England, Scotland, France, &amp; Ireland King, defender of the faith, &amp;c. the 19th at Weſton in the ſaid County,
+<pb n="16" facs="tcp:113731:11"/> trayterouſly did contrive, imagine and intend War, Rebellion and Inſurrection againſt the ſaid Lord and King within this Kingdome of England, and the ſame did ga<g ref="char:EOLhyphen"/>ther and ſtir up, And to performe and bring to paſſe, ſuch his Trea<g ref="char:EOLhyphen"/>ſons, Imaginations &amp; intentions, The ſaid <hi>Iohn Moore,</hi> afterwards, that is to ſay, the ſaid 20th day of <hi>Innuary</hi> in the ſaid year with force of Armes, &amp;c. at Weſton aforeſaid in the ſaid County againſt the ſaid Lord and King, his ſupreame true and undoubted Lord, with a great number of people to the Jury un<g ref="char:EOLhyphen"/>knowne to the number of 100 perſons, Armed and arrayed in a Warlike manner, that is to ſay, with Drums, Swords, Pikes, guns<g ref="char:punc">▪</g> and other Weapons, aſ<g ref="char:EOLhyphen"/>well offenſive as defenſive, falſly and trayterouſly then and there did gather and aſſemble toge<g ref="char:EOLhyphen"/>ther in a Warlike manner againſt the ſaid Lord and King at Weſt<g ref="char:EOLhyphen"/>on aforeſaid the ſaid twentieth day of <hi>Ian.</hi> in the yeare aforeſaid, Trayterouſly prepared, ordered, and levied, againſt the peace of the ſaid now Lord &amp; King, his Crown and Dignity, and contraty to the forme of the Statute in that caſe made and provided.</p>
+               <closer>The Kings Atturney proſecuteth the grand jury.<lb/>A true Bill.</closer>
+            </div>
+         </div>
+         <div type="indictment">
+            <pb n="17" facs="tcp:113731:11"/>
+            <head>
+               <hi>The tenth of Febr.</hi> 19. <hi>Carol.</hi> A Coppy of an Outlary againſt <hi>Iohn Moore</hi> Eſquire; with the returne of the Coronor Com. Ceſtr.</head>
+            <div xml:lang="lat" type="version">
+               <opener>
+                  <signed>CArolus Dei gra. Angliae Scotiae Fran. &amp; Hiberniae Rex, fidei defenſor, &amp;c.</signed>
+                  <salute>vic. Ceſtr. ſalute</salute>
+               </opener>
+               <p>Precipi<g ref="char:EOLhyphen"/>mus tibi quod non omittas propter aliqut. libertat. Com. tui quin exigi faci<g ref="char:EOLhyphen"/>as <hi>Johannes Moor</hi> nu<g ref="char:EOLhyphen"/>per de Weſton in Comit. tue, Ar. de Com. in Com. quouſq: ſecund. legem &amp; co<g ref="char:cmbAbbrStroke">̄</g>ſuetud. regni noſti. ang. ut lagat finon compervet, Et ſi compreint tunc eum capias &amp; ſalve cuſtod. Ita quod habiam Cor. eus co<g ref="char:EOLhyphen"/>ram Iuſtic. noſtris Ceſtr. apud Ceſtriam primo die prox. Seſſion. Ceſtr. apud Ceſtr. tenend. Ad reſpond. nobis de qui Iuſdam pro<g ref="char:EOLhyphen"/>diton. Rebellion, &amp; In<g ref="char:EOLhyphen"/>ſurrect,
+<pb n="18" facs="tcp:113731:12"/> unde idem <hi>Jo. hannes</hi> indictas exiſtit. Et ad ſaciend. &amp; recipi<g ref="char:EOLhyphen"/>end. quod cur noſtra de eo tunc &amp; ibib. conſtit Et a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> iſtat<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mp. Ceſtr. apud Ceſtr. ad cert. diem mand. Iuſtin. noſt. quod predict. <hi>Jo.</hi> non eſt invent. in Bal<g ref="char:EOLhyphen"/>livo tua. Et habe<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ibi. hoc Br<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <closer>
+                  <dateline>Teſte meipſo apud Ceſtr. <date>decimo die Feb An<g ref="char:EOLhyphen"/>no Regni decimo noſt.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Per K. Febr.</hi> 20. <hi>Car.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div xml:lang="eng" type="version">
+               <pb n="17" facs="tcp:113731:11"/>
+               <opener>
+                  <signed>CHARLS by the Grace of God, of England, Scotland, France, and Ireland King, defende of the faith, &amp;c.</signed>
+                  <salute>To our Sheriffes of Cheſter greeting.</salute>
+               </opener>
+               <p>Wee command thee notwithſtanding any liberty within thy County, but that thou cauſe <hi>Joh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Moore</hi> late of Weſton in the ſaid Coun<g ref="char:EOLhyphen"/>ty Eſquire, to bee ſummoned to ap<g ref="char:EOLhyphen"/>peare untill according to the Lawes and Cuſtomes of the Kingdome of England, hee be Outlawed if hee ap<g ref="char:EOLhyphen"/>peare not <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> doe appeare, that thou take and keepe him in ſafe cuſtody, ſo that thou bringeſt his Bo<g ref="char:EOLhyphen"/>dy before our Juſtices of Cheſter, ſit<g ref="char:EOLhyphen"/>ting at Cheſter the firſt day of the next Seſſions of Cheſter at Cheſter to be held, to make anſwer unto us con<g ref="char:EOLhyphen"/>cerning diver<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> Treaſons, Rebellions and Inſurrections, whereof hee the ſaid <hi>Iohn</hi> is Indicted, and to doe and receive what our Court ſhall thinke
+<pb n="18" facs="tcp:113731:12"/> fit concerning him, And from that time wee command our Juſtices of Cheſter at a certaine day to certifie the neglect of appearance of him the ſaid <hi>Iohn</hi> within thy Baillwick. And thou ſhall bring thither this Wait;</p>
+               <closer>
+                  <dateline>witneſſe our ſelfe at Cheſter <date>the tenth day of <hi>February</hi> in the ninteenth Yeare of our Raigne.</date>
+                  </dateline>
+                  <signed>
+                     <hi>By K. February, in the twentieth Yeare of King</hi> Charles.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="writ">
+            <pb n="19" facs="tcp:113731:12"/>
+            <head>The Sheriffes returne is thus Engliſhed.</head>
+            <div xml:lang="lat" type="version">
+               <p>VIrtute iſtiut<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ble. mihi direct. ad Com men Ceſtr. tent. apud Ceſtr. in Com. Ceſtr. in com. Auta. <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Com. pred. die Lunae videl. quarto die Martii, Anno Regni dom. Regis infra ſcript. decimo <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> infra nominat. <hi>Johannes Moor</hi> primo exact. ſuit &amp; non comparait, Ad. Com. meum Ceſtr. tent. apud Ceſtr. in com. Ceſtr. in com. A<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>la plime. com. <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Lun<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> videl, primo, die April. Anno Reg. a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Regis viceſint <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. <hi>Jo. Moor</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. fuit &amp; non <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Ceſtr. tent apud Ceſtr. in com. Ceſtr. in com. Aula Pllo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om pradi. die Lunae, viz. viteſinet novo die Apr. Ann. ult ſup. pred. <hi>Jo<g ref="char:EOLhyphen"/>hannes Moor</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ertia non<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="20" facs="tcp:113731:13"/> exact. fuit &amp; non compar. Ad com. meum Ceſtr. tenti. apud Ceſtr. in com. Ceſtr. in com. Aula. plim. com pred. die Lunae, viz. viceſimo Septemo die Maii Ann. ult ſup praedict. <hi>Joha. Moore</hi> quarto exact. fuit &amp; non comparuit. &amp; ad com. meum Ceſtr. tent. apud Ceſtr. in com. Ceſtr. in com. Aula plimt. com. pred. die Lunae videlic. vice ſimo quarto die Iunii An. ult ſupradict. pre<g ref="char:EOLhyphen"/>dicto <hi>Johan. Moore</hi> quin. exact fuit. &amp; non compar. ideo pred. <hi>Johan. Moore</hi> pre judic. <hi>Jo. Wilſon</hi> Gen. coronat. dict. dom. Regis com. pred. ſcundum legem &amp; conſuetudinem Regni Anglie ultagat eſt.</p>
+               <closer>
+                  <signed>
+                     <hi>Iſtud bre. prout. indorſat mihi deliberat. fuit per pred.</hi> Ric. Groſvenor <hi>Ar.</hi> Rich Groſvenor. <hi>Ar. nuper vic. Cheſtr. in exita. ab of<g ref="char:EOLhyphen"/>ficio ſuo. Robert. Tatton. Ar. vict. com. Ceſtr.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div xml:lang="eng" type="version">
+               <pb n="19" facs="tcp:113731:12"/>
+               <p> BY vertue of this Writ to mee directed, to my County of Cheſter, held at Cheſter in the County of Cheſter, in the common Hall, for Pleas for that County, on Munday, that it to ſay the fourth day of <hi>March,</hi> in the yeare of the Raigne of our Soveraigne Lord with in writ<g ref="char:EOLhyphen"/>ten the ninteenth, the with named <hi>Iohn Moore,</hi> had his firſt ſummons and appeared not. At my County Court of Cheſter, held at Cheſter in the County of Cheſter in the common Hall for Ple<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for the County afore<g ref="char:EOLhyphen"/>ſaid on <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> is to ſay, the firſt day of <hi>April</hi> in the yeare of the Raigne of our ſaid Soveraigne Lord the Twentieth, the aforenamed <hi>Iohn Moore</hi> had a ſecond ſummons, but appeared <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or A<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> my County Court of Cheſter held at Cheſter in the County of Cheſter, in the common Hall, for Pleas for the ſaid County, on Munday that is to ſay, the nine<g ref="char:EOLhyphen"/>teenth day of <hi>April</hi> in the Yeare laſt mentioned, the ſaid <hi>Iohn Moore</hi> was
+<pb n="20" facs="tcp:113731:13"/> ſummoned but appeared not. At my County Court of Cheſter, held at Cheſter in the County of Cheſter, in the common Hall for Pleas in the ſaid County, on Munday that is to ſay, the ſeven and twentieth day of <hi>May</hi> in the Yeare laſt mentioned, the ſaid <hi>Iohn Moore</hi> was ſummoned, but appeare not. At my County court of Cheſter, held at Cheſter in the common Hall for Pleas for the ſaid county, on Munday, that is to ſay the 24 of <hi>Iune</hi> in the Yeare laſt mentioned the ſaid <hi>Iohn Moore</hi> was ſummoned a fift time, but appeared not. Therefore the ſaid <hi>Iohn Moore</hi> by the judgement of <hi>Iohn Wilſon</hi> Gentleman the Coro<g ref="char:EOLhyphen"/>nor of our Soveraigne Lord the King for the ſaid county, (according to the Law and cuſtome of the Realme of England) is Outlawed.</p>
+               <closer>
+                  <signed>Signed <hi>Rich. Groſvenour</hi> Eſquire Sheriffe.</signed>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>This Writ (as it is indorſed) was delivered unto me, by the ſaid</hi> Rich Gravenour <hi>Eſq late Sheriffe of Cheſter, at his departure out of his Office.</hi>
+                  </p>
+                  <closer>
+                     <signed>Signed. <hi>Robert Tatton</hi> Eſq Sheriffe for the County of Cheſter.</signed>
+                  </closer>
+               </postscript>
+            </div>
+         </div>
+         <div type="list_of_judges">
+            <pb n="21" facs="tcp:113731:13"/>
+            <head>The names of the Judges and Juſtices. <hi>Nomina eorum luſtic. qui comparu<g ref="char:EOLhyphen"/>erunt ad Aſſiſias Ceſtr. quinto die Febr. Anno regni Caroli Reg. Angl. &amp;c.</hi> 19.</head>
+            <list>
+               <item>RObertus Vicecomes Cholmondly.</item>
+               <item>Thom. Mildward mil. Juſtic. Ceſtr.</item>
+               <item>Richardus Pritherow Ar. alt. Iuſt. Ceſtr.</item>
+               <item>Thom. Cholmley, Ar.</item>
+               <item>Richardus Brereton, Ar.</item>
+               <item>Emanuel Edwards, Ar.</item>
+               <item>Thomas Bromley.</item>
+               <item>Iohannes Werden, Ar.</item>
+               <item>Ionathan Woodnoth, Ar.</item>
+               <item>Iohannes Wilſon, Coronator. Com. pred. tunc comp.</item>
+               <item>Willielmus Kelſall Gent. Capital. Conſtabul. Hund. de</item>
+               <item>Ra. Tunna Gent. Broxon tunc Comp.</item>
+               <item>Iohannes Robinſon Gent. Capital. Conſtabul. Hund. de</item>
+               <item>Chriſtoferus Bennet Gent. VVorall tunc Comp.</item>
+               <item>Fredericus Terry Gent. Bal. libertat. Hundred. de Broxen tunc comp.</item>
+               <item>Willielmus Maſſey Mil. Bal. libertat. Hundred. de VVorall tunc comp.</item>
+               <item>Richardus Groſvenor Ar. vic. Com. Ceſtr. tunc.</item>
+            </list>
+         </div>
+         <div type="list_of_jurors">
+            <pb facs="tcp:113731:14"/>
+            <head>
+               <hi>The names of the Jury.</hi> Nomina Iur. jur. ſupr. Inquiſition. magnam ad Seſſion. Ceſtr. tent. apud <hi>Ceſtr. &amp;c. quinto die Febr. Anno regni Caroli Angl. &amp;c. decimo nono.</hi>
+            </head>
+            <list>
+               <item>HUgo Cholmley de Culceley mil.</item>
+               <item>Henric. Bunbury de Stancy Ar.</item>
+               <item>Richard. Brereton de Aſhley, Ar.</item>
+               <item>Johan. Bellot de Morton, Ar.</item>
+               <item>Petrus Leiceſter de neith Tabley Ar.</item>
+               <item>Hugo Wilbraham de Eccleſton Ar.</item>
+               <item>Jonathan Woodnath de Sheuton Ar.</item>
+               <item>Thom. Trafford de Bridge Trafford Ar.</item>
+               <item>Edmund. Peſſall de Oven Ar.</item>
+               <item>Wil. Haſſall de Hankelow Ar.</item>
+               <item>Wil. Brock de Upton Gen.</item>
+               <item>Lauerenc. Wymington de Armitage Gen.</item>
+               <item>Richard. Mallory de Mobberley Gen.</item>
+               <item>Robert. Weever de Cholmondley Gen.</item>
+               <item>Eliſha Manwaring de Martyn Gen.</item>
+               <item>Wil. Meyre de Meyre Gen.</item>
+               <item>Stanleus Burroughes de Taſſington Gen.</item>
+               <item>Petrus. Hatton de Quiſtybirches Gen.</item>
+               <item>Johan. Kelſall de Mickle Trafford Gen.</item>
+               <item>Thom. Ponket de Bridge Trafford Gen.</item>
+               <item>Johan. Frygg de Whitby Gen.</item>
+               <item>Jacobus Hulwood de Sutton Gen.</item>
+               <item>Robertus Waynright de Chriſtleton Gen.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113731:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
